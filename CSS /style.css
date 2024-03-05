@@ -1,0 +1,35 @@
+/* 
+.hero-container img{
+    width: 250px;
+    height: 250px;
+    align-items: flex-start;
+}
+.hero-container{
+    text-align:center;
+    background-color: #D8DED7;
+}
+.intro-container{
+    align-items: center;
+}
+.intro-container ul{
+text-align: left;
+}
+.intro-container img{
+    width: 300px;
+    height: 300px; 
+    float: right;
+  margin-left: 20px; 
+} */
+
+.my-intro{
+    background-color:#D8DED7;
+}
+.my-intro img{
+    float:right;
+}
+.my-prob{
+    background-color: #D8DED7;
+}
+h1 h2 h3 {
+    align-items: center;
+}
